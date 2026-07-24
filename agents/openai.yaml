@@ -1,0 +1,4 @@
+interface:
+  display_name: "HarmonyOS MVI"
+  short_description: "Build complete MVI flows in HarmonyOS ArkTS"
+  default_prompt: "Use $hmos-mvi to complete the current MVI task in this HarmonyOS ArkTS project."
